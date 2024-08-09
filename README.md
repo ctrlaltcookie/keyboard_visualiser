@@ -14,6 +14,10 @@ if you want to change your controls you can do that from line 65, this software 
 
 none, there's no warranty, if this breaks your computer fucking rip i have nothing to do with it, in fact, DONT use this software, please.
 
+## License
+
+this software is public domain, but the images aren't, everything in the img folder belongs to arcsys and should not be used for commercial purposes
+
 ## socials
 
 you can find all my socials from my main user page, but if you're interested i write software like this a lot on stream, [at twitch.tv/ctrlaltcookie](https://www.twitch.tv/ctrlaltcookie) leaving me a prime subby would help a lot 🥺
